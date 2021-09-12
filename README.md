@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 <div  >
  <a href="https://github.com/saidino84">
  <img height="180cm" src='https://github-readme-stats.vercel.app/api?username=saidino84&show_icons=true&theme=dracula&include_all_commits=true&count_private=true'/>
+  
  <img height="180cm" src='https://github-readme-stats.vercel.app/api/top-langs/?username=saidino84&layout=compact&langs_count=16&theme=dracula'/>
  
 </div>
@@ -21,6 +22,7 @@ You can click the Preview link to take a look at your changes.
  
  <h1 style="color:red">Minhas Tecnologias Favoritas</H1>
  <div style="display:inline_block"></br>
+ <img align='center' alt='Rafa-Js' height='70' width='70'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
  <img align='center' alt='Rafa-Js' height='70' width='70'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align='center' alt='Rafa-Js' height='70' width='70' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
  <img align='center' alt='Rafa-Python' height='70' width='70' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>

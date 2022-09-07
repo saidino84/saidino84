@@ -17,9 +17,10 @@ You can click the Preview link to take a look at your changes.
  <img height="180cm" src='https://github-readme-stats.vercel.app/api/top-langs/?username=saidino84&layout=compact&langs_count=16&theme=dracula'/>
  
 </div>
- />
+ 
   <img align='center' alt='Rafa-Python' height='89' width='70'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  
+ 3+ years professional experience as software developer. Python expert. FLUTTER enthusiast. Specialised in backend development and build management.
  <h1 style="color:red">Minhas Tecnologias Favoritas</H1>
  <div style="display:inline_block"></br>
  <img align='center' alt='Rafa-Js' height='70' width='70'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
